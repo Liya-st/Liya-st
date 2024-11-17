@@ -3,7 +3,7 @@
 <h1 align='center'>Hi there 👋 I am Liya</h1> 
 
 
-- 🌱 I’m currently learning *Django* :snake:
+- 🌱 I’m currently learning *Flutter* ✨
 
   <h3 align="left">Languages and Tools:</h3>
 
